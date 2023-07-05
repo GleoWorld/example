@@ -10,3 +10,7 @@ h1 {
     text-transform: uppercase;
     color: darkmagenta
 }
+img{
+    border: solid black 5px;
+    border-radius: 20px;
+}
